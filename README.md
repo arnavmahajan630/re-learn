@@ -6,7 +6,6 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?style=flat&logo=typescript&logoColor=white)](https://typescriptlang.org)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-v4.0-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
 [![LightGBM](https://img.shields.io/badge/ML-LightGBM%20%7C%20ONNX-FF6F00?style=flat)](https://lightgbm.readthedocs.io)
-[![Status](https://img.shields.io/badge/ShellShock-Maharashtra%20Round-gold?style=flat)](#)
 
 > **Re:Learn** is an AI-powered adaptive learning system that identifies a student's underlying **mental model misconceptions** rather than merely marking code as correct or incorrect. Powered by a custom line-by-line C execution interpreter, Bayesian diagnostic reasoning, multimodal inputs (flowcharts & speech), and a persistent knowledge star chart, Re:Learn bridges the gap between syntactic evaluation and genuine conceptual understanding.
 
@@ -235,8 +234,8 @@ flowchart TD
 
 ### 1. Clone & Setup Backend
 ```bash
-git clone https://github.com/arnavmahajan630/ShellShock_maharashtra_round.git
-cd ShellShock_maharashtra_round
+git clone https://github.com/arnavmahajan630/re-learn.git
+cd re-learn
 
 # Create virtual environment
 python3 -m venv .venv
